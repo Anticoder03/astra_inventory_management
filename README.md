@@ -100,6 +100,90 @@ The Inventory Management System (IMS) is a comprehensive web-based solution desi
               (User Interface Layer)
 ```
 
+## Database Diagram
+
+![de-schema](https://github.com/user-attachments/assets/36da326a-3f98-4248-ab1a-544c95a37df5)
+
+## Dashboard
+![Screenshot 2025-06-18 114857](https://github.com/user-attachments/assets/51b78ff2-f50b-4a1f-904f-3a67b1b6fc2b)
+![Screenshot 2025-06-18 114857](https://github.com/user-attachments/assets/51b78ff2-f50b-4a1f-904f-3a67b1b6fc2b)
+![Screenshot 2025-06-18 114844](https://github.com/user-attachments/assets/afd64dd9-b2e1-403d-94ce-8909241f18aa)
+![Screenshot 2025-06-18 114844](https://github.com/user-attachments/assets/afd64dd9-b2e1-403d-94ce-8909241f18aa)
+![Screenshot 2025-06-18 114826](https://github.com/user-attachments/assets/a01f5365-e9a4-45a9-b5b9-a96474843fc2)
+![Screenshot 2025-06-18 114826](https://github.com/user-attachments/assets/a01f5365-e9a4-45a9-b5b9-a96474843fc2)
+![Screenshot 2025-06-18 114814](https://github.com/user-attachments/assets/a7938522-bb88-4e79-b1a9-7c6b85ba21e3)
+![Screenshot 2025-06-18 114814](https://github.com/user-attachments/assets/a7938522-bb88-4e79-b1a9-7c6b85ba21e3)
+![Screenshot 2025-06-18 114748](https://github.com/user-attachments/assets/62d93535-5a4c-47fb-bd22-b0bb6d0fdb5e)
+![Screenshot 2025-06-18 114748](https://github.com/user-attachments/assets/62d93535-5a4c-47fb-bd22-b0bb6d0fdb5e)
+
+
+## Products
+![Screenshot 2025-06-18 115134](https://github.com/user-attachments/assets/2de2c073-ca48-4c30-b4e9-6211441898a9)
+![Screenshot 2025-06-18 115134](https://github.com/user-attachments/assets/2de2c073-ca48-4c30-b4e9-6211441898a9)
+![Screenshot 2025-06-18 115421](https://github.com/user-attachments/assets/15bd8228-d6c6-421e-b143-1e5a15900a05)
+![Screenshot 2025-06-18 115421](https://github.com/user-attachments/assets/15bd8228-d6c6-421e-b143-1e5a15900a05)
+![Screenshot 2025-06-18 115406](https://github.com/user-attachments/assets/5a3800a9-b93f-4e6d-9470-4f96f763562c)
+![Screenshot 2025-06-18 115406](https://github.com/user-attachments/assets/5a3800a9-b93f-4e6d-9470-4f96f763562c)
+![Screenshot 2025-06-18 115303](https://github.com/user-attachments/assets/d12e9f8c-c36e-439d-a286-b31c793bd5da)
+![Screenshot 2025-06-18 115303](https://github.com/user-attachments/assets/d12e9f8c-c36e-439d-a286-b31c793bd5da)
+
+![Screenshot 2025-06-18 115229](https://github.com/user-attachments/assets/b3fc628b-d29e-487b-bfdc-c052bfd2b173)
+![Screenshot 2025-06-18 115229](https://github.com/user-attachments/assets/b3fc628b-d29e-487b-bfdc-c052bfd2b173)
+
+
+## Purches
+![Screenshot 2025-06-18 121101](https://github.com/user-attachments/assets/79538219-ad09-4cf3-bbb0-6c44c6a9cd05)
+![Screenshot 2025-06-18 121101](https://github.com/user-attachments/assets/79538219-ad09-4cf3-bbb0-6c44c6a9cd05)
+![Screenshot 2025-06-18 120806](https://github.com/user-attachments/assets/f95328f9-2573-4be6-ba93-50141850b274)
+![Screenshot 2025-06-18 120806](https://github.com/user-attachments/assets/f95328f9-2573-4be6-ba93-50141850b274)
+
+![Screenshot 2025-06-18 120731](https://github.com/user-attachments/assets/9319672a-d4c3-45c2-8444-41bd28c02f01)
+![Screenshot 2025-06-18 120731](https://github.com/user-attachments/assets/9319672a-d4c3-45c2-8444-41bd28c02f01)
+![Screenshot 2025-06-18 120722](https://github.com/user-attachments/assets/19d68458-d089-48ea-993f-2a2ed2a4e87f)
+![Screenshot 2025-06-18 120722](https://github.com/user-attachments/assets/19d68458-d089-48ea-993f-2a2ed2a4e87f)
+
+## Report
+![Screenshot 2025-06-18 120624](https://github.com/user-attachments/assets/30500090-89dc-47ad-b0be-30b1b446844e)
+![Screenshot 2025-06-18 120624](https://github.com/user-attachments/assets/30500090-89dc-47ad-b0be-30b1b446844e)
+![Screenshot 2025-06-18 120531](https://github.com/user-attachments/assets/c86729f1-c78f-465b-8a26-4c67bd955e53)
+![Screenshot 2025-06-18 120531](https://github.com/user-attachments/assets/c86729f1-c78f-465b-8a26-4c67bd955e53)
+![Screenshot 2025-06-18 120519](https://github.com/user-attachments/assets/6b9dedc1-f9d8-4aa6-90a6-68784ec8ce29)
+![Screenshot 2025-06-18 120519](https://github.com/user-attachments/assets/6b9dedc1-f9d8-4aa6-90a6-68784ec8ce29)
+![Screenshot 2025-06-18 120503](https://github.com/user-attachments/assets/2d3009c1-f6c5-4798-9ee9-08215be9b58a)
+![Screenshot 2025-06-18 120503](https://github.com/user-attachments/assets/2d3009c1-f6c5-4798-9ee9-08215be9b58a)
+
+## Sales
+
+![Screenshot 2025-06-18 121350](https://github.com/user-attachments/assets/84fe5f69-1261-4e39-8a86-220bad79f06f)
+![Screenshot 2025-06-18 121350](https://github.com/user-attachments/assets/84fe5f69-1261-4e39-8a86-220bad79f06f)
+![Screenshot 2025-06-18 121332](https://github.com/user-attachments/assets/00026448-c4a6-442c-abdb-6bf7018fe1f2)
+![Screenshot 2025-06-18 121332](https://github.com/user-attachments/assets/00026448-c4a6-442c-abdb-6bf7018fe1f2)
+![Screenshot 2025-06-18 121324](https://github.com/user-attachments/assets/a140679b-8eb7-49b3-98b2-0a82065d415e)
+![Screenshot 2025-06-18 121324](https://github.com/user-attachments/assets/a140679b-8eb7-49b3-98b2-0a82065d415e)
+
+
+## Stock
+![Screenshot 2025-06-18 120020](https://github.com/user-attachments/assets/04319c53-7aa2-4a27-8ddd-f8b0fdfb57d0)
+![Screenshot 2025-06-18 120020](https://github.com/user-attachments/assets/04319c53-7aa2-4a27-8ddd-f8b0fdfb57d0)
+![Screenshot 2025-06-18 115816](https://github.com/user-attachments/assets/75e132f9-0e39-4e99-aa84-0d6e0422c268)
+![Screenshot 2025-06-18 115816](https://github.com/user-attachments/assets/75e132f9-0e39-4e99-aa84-0d6e0422c268)
+![Screenshot 2025-06-18 115752](https://github.com/user-attachments/assets/9b26f827-95ac-4234-81a2-9b91e9bdd95a)
+![Screenshot 2025-06-18 115752](https://github.com/user-attachments/assets/9b26f827-95ac-4234-81a2-9b91e9bdd95a)
+
+## Supplier
+
+![Screenshot 2025-06-18 120408](https://github.com/user-attachments/assets/3df6697c-c5ef-4a19-8c7b-3794f25ea8be)
+![Screenshot 2025-06-18 120408](https://github.com/user-attachments/assets/3df6697c-c5ef-4a19-8c7b-3794f25ea8be)
+![Screenshot 2025-06-18 120358](https://github.com/user-attachments/assets/7b9c6a3e-73ea-4f4c-91bb-efc5de629111)
+![Screenshot 2025-06-18 120358](https://github.com/user-attachments/assets/7b9c6a3e-73ea-4f4c-91bb-efc5de629111)
+![Screenshot 2025-06-18 120344](https://github.com/user-attachments/assets/b0a1527e-7887-4493-bbe2-89205cae77e1)
+![Screenshot 2025-06-18 120344](https://github.com/user-attachments/assets/b0a1527e-7887-4493-bbe2-89205cae77e1)
+![Screenshot 2025-06-18 120334](https://github.com/user-attachments/assets/649da55b-ee40-4428-8c70-46b6ee3a063d)
+![Screenshot 2025-06-18 120334](https://github.com/user-attachments/assets/649da55b-ee40-4428-8c70-46b6ee3a063d)
+
+
+
+
 ## Installation
 1. Clone the repository:
    ```bash
