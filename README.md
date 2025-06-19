@@ -170,7 +170,10 @@ Here’s a cleaned-up version of your image list with all the **duplicate screen
 
 
 
-## Installation
+
+> ##  **⚙️ Installation** *(Note: 🚫 Use this **only** if you have ✅ permission)*
+
+
 1. Clone the repository:
    ```bash
    git clone https://github.com/Anticoder03/astra_inventory_management.git
